@@ -1,0 +1,21 @@
+---
+type: area
+---
+
+# {{title}}
+
+## 责任范围
+这个领域包含什么？我对它的责任是什么？
+
+## 当前重点
+-
+
+## 相关项目
+```dataview
+LIST
+FROM "1-Projects"
+WHERE contains(related-area, this.file.link) OR contains(related-area, this.file.name)
+```
+
+## 资源与笔记
+-
