@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resources/读书笔记/低风险创业.md",
+                "file": "3-Resources/读书笔记/巴比伦首富.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "低风险创业"
+              "title": "巴比伦首富"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resources/读书笔记/低风险创业.md",
+                "file": "3-Resources/读书笔记/巴比伦首富.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "低风险创业 的反向链接列表"
+              "title": "巴比伦首富 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resources/读书笔记/低风险创业.md",
+                "file": "3-Resources/读书笔记/巴比伦首富.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "低风险创业 的出链列表"
+              "title": "巴比伦首富 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resources/读书笔记/低风险创业.md",
+                "file": "3-Resources/读书笔记/巴比伦首富.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "低风险创业 的大纲"
+              "title": "巴比伦首富 的大纲"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "250144ed5b4792c1",
   "lastOpenFiles": [
-    "Templates/读书笔记模板.md",
     "3-Resources/读书笔记/低风险创业.md",
+    "3-Resources/读书笔记/巴比伦首富.md",
+    "Templates/读书笔记模板.md",
     "2-Areas/财富认知.md",
     "2-Areas/身心健康.md",
     "2-Areas/家庭关系.md",
@@ -213,7 +214,6 @@
     "Templates/OKR Template.md",
     "2-Areas/健康.md",
     "2-Areas/智能驾驭.md",
-    "2-Areas/学习成长.md",
     "未命名.canvas",
     "Templates",
     "4-Archives",
