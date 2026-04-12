@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Areas/身心健康.md",
+                "file": "2-Areas/自我迭代.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "身心健康"
+              "title": "自我迭代"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/身心健康.md",
+                "file": "2-Areas/自我迭代.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "身心健康 的反向链接列表"
+              "title": "自我迭代 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Areas/身心健康.md",
+                "file": "2-Areas/自我迭代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "身心健康 的出链列表"
+              "title": "自我迭代 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Areas/身心健康.md",
+                "file": "2-Areas/自我迭代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "身心健康 的大纲"
+              "title": "自我迭代 的大纲"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "250144ed5b4792c1",
   "lastOpenFiles": [
-    "2-Areas/自我迭代.md",
     "1-Projects/建立个人知识管理系统.md",
+    "2-Areas/自我迭代.md",
     "2-Areas/身心健康.md",
     "Templates/Area Template.md",
     "0-Inbox/Inbox.md",
