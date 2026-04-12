@@ -2,11 +2,11 @@
 type: project
 status: active
 area:
-created:
+created: {{date}}
 deadline:
 ---
 
-# 
+# {{title}}
 
 ## 背景
 为什么做这个项目？
@@ -20,7 +20,7 @@ deadline:
 ## 任务
 ```tasks
 not done
-path includes 
+path includes {{title}}
 short mode
 ```
 
