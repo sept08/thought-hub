@@ -20,5 +20,12 @@ FROM "1-Projects"
 WHERE contains(area, this.file.name)
 ```
 
+## 相关读书笔记
+```dataview
+LIST
+FROM "3-Resources/读书笔记"
+WHERE contains(area, this.file.name)
+```
+
 ## 资源与笔记
 -
