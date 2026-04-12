@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Areas/财富认知.md",
+                "file": "3-Resources/读书笔记/低风险创业.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "财富认知"
+              "title": "低风险创业"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/财富认知.md",
+                "file": "3-Resources/读书笔记/低风险创业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "财富认知 的反向链接列表"
+              "title": "低风险创业 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Areas/财富认知.md",
+                "file": "3-Resources/读书笔记/低风险创业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "财富认知 的出链列表"
+              "title": "低风险创业 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Areas/财富认知.md",
+                "file": "3-Resources/读书笔记/低风险创业.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "财富认知 的大纲"
+              "title": "低风险创业 的大纲"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "250144ed5b4792c1",
   "lastOpenFiles": [
+    "Templates/读书笔记模板.md",
     "3-Resources/读书笔记/低风险创业.md",
     "2-Areas/财富认知.md",
     "2-Areas/身心健康.md",
@@ -200,7 +201,6 @@
     "迭代.md",
     "未命名.base",
     "Templates/Project Template.md",
-    "Templates/读书笔记模板.md",
     "1-Projects/Untitled.md",
     "Templates/Area Template.md",
     "2-Areas/自我迭代.md",
