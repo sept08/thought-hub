@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Areas/自我迭代.md",
+                "file": "Templates/Project Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自我迭代"
+              "title": "Project Template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/自我迭代.md",
+                "file": "Templates/Project Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "自我迭代 的反向链接列表"
+              "title": "Project Template 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Areas/自我迭代.md",
+                "file": "Templates/Project Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "自我迭代 的出链列表"
+              "title": "Project Template 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Areas/自我迭代.md",
+                "file": "Templates/Project Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "自我迭代 的大纲"
+              "title": "Project Template 的大纲"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "250144ed5b4792c1",
   "lastOpenFiles": [
+    "Templates/Area Template.md",
     "1-Projects/建立个人知识管理系统.md",
     "2-Areas/自我迭代.md",
     "2-Areas/身心健康.md",
-    "Templates/Area Template.md",
     "0-Inbox/Inbox.md",
     "Templates/Daily Template.md",
     "Dashboard.md",
